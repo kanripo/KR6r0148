@@ -1,32 +1,23 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 22:29:08.100992
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:28
 #+TITLE: 鐔津文集
 #+PROPERTY: CBETA_ID T52n2115
 #+PROPERTY: ID KR6r0148
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 52, No. 2115
 #+PROPERTY: VOL 52
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6r0148_T_000-0646c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6r0148_T_002-0654b> 
 #+PROPERTY: JUAN 2
 ¶
-
- 鐔津文集卷第二¶
+鐔津文集卷第二¶
 ¶
 藤州鐔津東山沙門契嵩撰¶
 
-中
-:PROPERTIES:
-:head: 輔教編中
-:END:
-¶
+** 輔教編中¶
 
-廣原教
-:PROPERTIES:
-:head: 廣原教
-:END:
-¶
+*** 廣原教¶
 
 敘曰。余昔以五戒十善。通儒之五常為原教。¶
 急欲解當世儒者之訾佛。若吾聖人為教之¶
