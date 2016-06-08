@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 22:29:08.490346
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:28
 #+TITLE: 鐔津文集
 #+PROPERTY: CBETA_ID T52n2115
 #+PROPERTY: ID KR6r0148
@@ -17,13 +17,13 @@
 ¶
 藤州鐔津東山沙門契嵩撰¶
 
-12非韓(一四-一六)
+* 12非韓(一四-一六)
 :PROPERTIES:
 :head: 非韓上
 :END:
 ¶
 
-非韓子三十篇
+** 非韓子三十篇
 :PROPERTIES:
 :head: 非韓子三十篇(并敘)
 :END:
@@ -33,7 +33,7 @@
 為之。是非如俗用愛惡相攻。必至聖至賢乃¶
 信吾說之不苟也。其書三十篇。僅三萬餘言。¶
 
-1第一
+*** 1第一
 :PROPERTIES:
 :head: 第一
 :END:

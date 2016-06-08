@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 22:29:08.100992
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:28
 #+TITLE: 鐔津文集
 #+PROPERTY: CBETA_ID T52n2115
 #+PROPERTY: ID KR6r0148
@@ -16,13 +16,13 @@
 ¶
 藤州鐔津東山沙門契嵩撰¶
 
-中
+** 中
 :PROPERTIES:
 :head: 輔教編中
 :END:
 ¶
 
-廣原教
+*** 廣原教
 :PROPERTIES:
 :head: 廣原教
 :END:
